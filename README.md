@@ -16,6 +16,9 @@
 قانۇنىيەتلەرنى ئىشلىتىشكىچە ھەممىسى بۇنىڭ ئىچىدە بولىدۇ . تەپسىالتىنى قولالنمىنى ڭ ھەر 
 قايسى بۆلۈملىرىدىن كۆ رەلەيسىز .
 
+https://github.com/bulaqbeshi/books/blob/0c30e55afbb4a4fb92d35f5e8a203d694570460b/UyghurOSINTQollanmisi-01.pdf
+
+
 ---------------------------------------------------------------------------------------------------
 
 Osinit (OSINT , (yeni ochuq m enbe istixbarati uyghur ilim sahesi üchün bir 
@@ -36,6 +39,8 @@ Qilishtin tartip süniy hemrah xeritiliridin paydilinish we mat ématikiliq, fiz
 Qanuniyetlerni ishlitishkiche hemmisi buning ichide bolidu . Tepsi'altini qolalnmini ng her 
 Qaysi bölümliridin kö releysiz .
 
+https://github.com/bulaqbeshi/books/blob/0c30e55afbb4a4fb92d35f5e8a203d694570460b/UyghurOSINTQollanmisi-01.pdf
+
 --------------------------------------------------------------------------------------------------------
 
 осинит (OSINT , (йәни очуқ м әнбә истихбарати уйғур илим саһәси үчүн бир 
@@ -55,3 +60,6 @@ Qaysi bölümliridin kö releysiz .
 қилиштин тартип сүний һәмраһ хәритилиридин пайдилиниш вә мат ематикилиқ, физикилиқ 
 қанунийәтләрни ишлитишкичә һәммиси буниң ичидә болиду . тәпсиалтини қолалнмини ң һәр 
 қайси бөлүмлиридин кө рәләйсиз .
+
+
+https://github.com/bulaqbeshi/books/blob/0c30e55afbb4a4fb92d35f5e8a203d694570460b/UyghurOSINTQollanmisi-01.pdf
