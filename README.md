@@ -42,6 +42,8 @@ Qilishtin tartip süniy hemrah xeritiliridin paydilinish we mat ématikiliq, fiz
 Qanuniyetlerni ishlitishkiche hemmisi buning ichide bolidu . Tepsi'altini qolalnmini ng her 
 Qaysi bölümliridin kö releysiz .
 
+Kitapni töwendiki ulanmidin chüshürwiling:
+ۆڭت
 https://github.com/bulaqbeshi/books/blob/0c30e55afbb4a4fb92d35f5e8a203d694570460b/UyghurOSINTQollanmisi-01.pdf
 
 --------------------------------------------------------------------------------------------------------
@@ -64,5 +66,6 @@ https://github.com/bulaqbeshi/books/blob/0c30e55afbb4a4fb92d35f5e8a203d694570460
 қанунийәтләрни ишлитишкичә һәммиси буниң ичидә болиду . тәпсиалтини қолалнмини ң һәр 
 қайси бөлүмлиридин кө рәләйсиз .
 
+китапни төвәндики уланмидин чүшүрвилиң
 
 https://github.com/bulaqbeshi/books/blob/0c30e55afbb4a4fb92d35f5e8a203d694570460b/UyghurOSINTQollanmisi-01.pdf
